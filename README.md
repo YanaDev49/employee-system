@@ -1,6 +1,6 @@
-# Welcome to my employee management backend system using Go 🚀
+# Welcome to my employee management backend system 🚀
 
-### A lightweight, scalable API for managing employee hierarchies and department structures—built with Go, GORM, and PostgreSQL.
+### A lightweight, scalable API for managing employee hierarchies and department structures built with Go, GORM, and PostgreSQL. 
 
 ![Screenshot 2025-04-10 222250](https://github.com/user-attachments/assets/207241b0-cf66-40a9-a47c-ae70919f8232)
 ##
